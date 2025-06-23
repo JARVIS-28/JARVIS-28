@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janvii R V</h1>
-<h3 align="center">Computer Science student passionate about AI, ML, and creative tech!</h3>
+<h3 align="center">Computer Science student passionate about AI, ML, and building creative tech solutions!</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JARVIS-28&label=Profile%20views&color=0e75b6&style=flat" alt="JARVIS-28" />
@@ -10,9 +10,9 @@
 ### 💡 About Me
 
 - 🎓 B.Tech CSE @ PES University  
-- 🤖 I’m passionate about **Generative AI, ML**, and building innovative tools  
-- 🛠️ I love turning **ideas into real-world projects**  
-- 🧠 Currently exploring: **LLMs, ChromaDB, CrewAI, and AI agents**
+- 🤖 Passionate about **Generative AI, Machine Learning**, and building intelligent tools  
+- 🛠️ I love turning ideas into **real-world applications**  
+- 📚 Currently diving deep into LLMs, ChromaDB, CrewAI, and Knowledge Graphs
 
 ---
 
@@ -32,44 +32,34 @@
 
 ---
 
+### 🏆 GitHub Highlights
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=JARVIS-28&theme=radical&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 🚀 Featured Projects
 
-#### 🎧 [Emotion Based Playlist Generator](https://github.com/JARVIS-28/EMOTION_BASED_PLAYLIST_GENERATOR)
-Classifies diary entries into moods using BERT and generates Spotify-style playlists using ChromaDB.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JARVIS-28&repo=EMOTION_BASED_PLAYLIST_GENERATOR&theme=radical)](https://github.com/JARVIS-28/EMOTION_BASED_PLAYLIST_GENERATOR)
 
-#### 🛡️ [Credit Card Fraud Detection](https://github.com/JARVIS-28/CREDIT-CARD-FRAUD-DETECTION)
-Real-time detection system with engineered features and explainability for transaction safety.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JARVIS-28&repo=PIXEL-ART-CONVERTER&theme=radical)](https://github.com/JARVIS-28/PIXEL-ART-CONVERTER)
 
-#### 🔎 [Search Engine](https://github.com/JARVIS-28/Search-Engine)
-Queries across Wikipedia, News, Twitter, Research Papers & more – with summarization & visual UI.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JARVIS-28&repo=Search-Engine&theme=radical)](https://github.com/JARVIS-28/Search-Engine)
 
-#### 🖼️ [Pixel Art Converter](https://github.com/JARVIS-28/PIXEL-ART-CONVERTER)
-Fun tool to convert your images into low-res pixel art using OpenCV.
-
-#### 🧪 [Streaming vs Batch Processing](https://github.com/JARVIS-28/Streaming-And-Batch-Processing-Analysis)
-Comparative analysis of Spark batch and Kafka streaming processing models.
-
-#### ⚙️ [CD Lab Solutions](https://github.com/JARVIS-28/CD-LAB)
-Compiler Design lab programs and explanations – from Lex & Yacc to optimization.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JARVIS-28&repo=Streaming-And-Batch-Processing-Analysis&theme=radical)](https://github.com/JARVIS-28/Streaming-And-Batch-Processing-Analysis)
 
 ---
 
-### 📈 GitHub Stats
+### 🧪 Other Cool Repos
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JARVIS-28&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JARVIS-28&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JARVIS-28&layout=compact&theme=radical" />
-</p>
+- ⚙️ [CD-LAB](https://github.com/JARVIS-28/CD-LAB): Compiler Design Lab programs and explanations  
+- 🛡️ [Credit Card Fraud Detection](https://github.com/JARVIS-28/CREDIT-CARD-FRAUD-DETECTION): ML system to flag fraudulent transactions
 
 ---
 
-### 🧭 Currently Exploring
+### 🐍 GitHub Contribution Snake
 
-- 🧠 LLMs & RAG (Retrieval-Augmented Generation)  
-- 🤖 CrewAI & Autogen for agentic workflows  
-- 🎨 AI-powered creative tools with Web UIs  
-- 🔍 Knowledge Graphs with OpenAlex
+![snake gif](https://github.com/JARVIS-28/JARVIS-28/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -77,8 +67,8 @@ Compiler Design lab programs and explanations – from Lex & Yacc to optimizatio
 
 - ✉️ janviirv@gmail.com  
 - 🌐 [GitHub](https://github.com/JARVIS-28)  
-- 📝 Ask me about projects, collaboration, or anything AI!
+- 💬 Always open to collaborations in AI/ML & automation tools
 
 ---
 
-> *“Building something cool every day 🚀”*
+> *"Building something cool every day 🚀"*
