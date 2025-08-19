@@ -66,7 +66,8 @@
 ### 📫 Let's Connect!
 
 - ✉️ janviirv@gmail.com  
-- 🌐 [GitHub](https://github.com/JARVIS-28)  
+- 🌐 [GitHub](https://github.com/JARVIS-28)
+- https://my-portfolio-phi-six-27.vercel.app/
 - 💬 Always open to collaborations in AI/ML & automation tools
 
 ---
