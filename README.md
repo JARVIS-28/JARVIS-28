@@ -67,7 +67,7 @@
 
 - ✉️ janviirv@gmail.com  
 - 🌐 [GitHub](https://github.com/JARVIS-28)
-- https://my-portfolio-phi-six-27.vercel.app/
+- [Portfolio](https://janviirv-portfolio-2-0.vercel.app/)
 - 💬 Always open to collaborations in AI/ML & automation tools
 
 ---
